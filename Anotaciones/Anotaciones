@@ -1,0 +1,29 @@
+********** REACT ROUTER DOM **********
+https://reactrouter.com/web/guides/quick-start
+npm install react-router-dom
+
+********** FONT AWESOME CDN **********
+https://cdnjs.com/libraries/font-awesome
+
+********** REACT BIG CALENDAR **********
+https://www.npmjs.com/package/react-big-calendar
+npm i react-big-calendar
+
+********** REACT MODAL **********
+https://www.npmjs.com/package/react-modal
+Estilos -> https://gist.github.com/Klerith/5f490092ce9bd5775cb1d91162be0cea
+npm i react-modal
+
+********** REACT DATETIME-PICKER - PERSONALIZADO **********
+https://www.npmjs.com/package/react-datetime-picker
+npm i react-datetime-picker
+
+********** SWEET ALERT 2 **********
+npm i sweetalert2
+
+********** REDUX **********
+https://react-redux.js.org/introduction/quick-start
+npm install react-redux
+https://es.redux.js.org/
+https://www.npmjs.com/package/redux-thunk
+npm i redux-thunk
